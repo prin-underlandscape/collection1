@@ -1,6 +1,7 @@
 # collection1
 ## Percorso: Seconda ricognizione Piella
 Nessuna immagine 
+
 Dalla strada alla Piella e ritorno con i nuovi QR code
 ## POI: Riparo sottoroccia lungo percorso Piella
 [<img src='vignettes/2yY95qQg.jpg' width='250'/>](vignettes/2yY95qQg.jpg) 
